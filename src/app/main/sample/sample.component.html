@@ -9,11 +9,12 @@
         type="text"
         style="padding: 8px; margin: 15px auto; width: 30%"
         placeholder="Type to filter the name column..."
-        (keyup)="updateFilter($event)"
+        [formControl]="filter"
     />
     <ngx-datatable
+        #table
         class="material"
-        [rows]="rows"
+        [rows]="rows$.value"
         [columnMode]="'force'"
         [headerHeight]="50"
         [footerHeight]="50"
