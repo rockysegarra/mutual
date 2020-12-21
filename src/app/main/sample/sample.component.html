@@ -14,25 +14,22 @@
         [footerHeight]="50"
         [rowHeight]="50"
         [limit]="12"
-        [sorts]="[{ prop: 'name', dir: 'desc' }]"
     >
         <ngx-datatable-column name="Company">
             <ng-template let-row="row" ngx-datatable-cell-template>
                 {{ row.memberName }}
             </ng-template>
         </ngx-datatable-column>
-        <ngx-datatable-column name="Age">
+
+        <ngx-datatable-column name="Member Number">
             <ng-template let-row="row" ngx-datatable-cell-template>
-                {{ row.age }}
+                {{ row.memberNumber }}
             </ng-template>
         </ngx-datatable-column>
-
-        <ngx-datatable-column name="Name">
+        <ngx-datatable-column name="Date Created">
             <ng-template let-row="row" ngx-datatable-cell-template>
-                {{ row.name }}
+                {{ row.createdDt }}
             </ng-template>
         </ngx-datatable-column>
-
-        <ngx-datatable-column name="Gender"> </ngx-datatable-column>
     </ngx-datatable>
 </div>
