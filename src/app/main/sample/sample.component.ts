@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import { Member } from './models/member';
 import { MembersService } from './services/members.service';
 
 @Component({
@@ -9,7 +10,7 @@ import { MembersService } from './services/members.service';
 export class SampleComponent {
     title = "angular-datatables";
 
-    rows:any;
+    rows:Member[];
 
     constructor(private membersService: MembersService){
 

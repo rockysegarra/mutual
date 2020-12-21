@@ -1,5 +1,10 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
+import { List } from 'lodash';
+import { Observable } from 'rxjs';
+import { tap } from 'rxjs/operators';
+import { MemberResponse } from '../models/member-response';
+import { Member } from '../models/member';
 
 @Injectable({
   providedIn: 'root'
@@ -10,8 +15,8 @@ export class MembersService {
 
   constructor(private httpClient: HttpClient) { }
 
-  getMembers(){
-    return this.httpClient.get(this.membersUrl);
+  getMembers(): Observable<MemberResponse>{
+    return this.httpClient.get<MemberResponse>(this.membersUrl);
   }
 
 }
