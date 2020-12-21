@@ -1,0 +1,1045 @@
+{
+    "data": [
+        {
+            "memberNumber": "117150     ",
+            "memberDEANumber": null,
+            "memberName": "501 PHARMACY LLC              ",
+            "address1": "98 CHAPELTON COURT                 ",
+            "address2": null,
+            "city": "CHAPEL HILL                        ",
+            "state": "NC",
+            "zip": "27516           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-29-01.56.30.759000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CLOZAPINE ",
+                    "memberLicenseClass": "CLOZAPINE ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "IPLEDGE   ",
+                    "memberLicenseClass": "IPLEDGE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "QSYMIA    ",
+                    "memberLicenseClass": "QSYMIA    ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SPRAVATO  ",
+                    "memberLicenseClass": "SPRAVATO  ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "106237     ",
+            "memberDEANumber": null,
+            "memberName": "ABERDEEN PRESCRIPTION SHOPPE  ",
+            "address1": "1389 N SANDHILLS BLVD              ",
+            "address2": null,
+            "city": "ABERDEEN                           ",
+            "state": "NC",
+            "zip": "28315           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-29-01.56.17.555000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "IPLEDGE   ",
+                    "memberLicenseClass": "IPLEDGE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "QSYMIA    ",
+                    "memberLicenseClass": "QSYMIA    ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "STRIPBAYER",
+                    "memberLicenseClass": "STRIPBAYER",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "115055     ",
+            "memberDEANumber": null,
+            "memberName": "ADLER PHARMACY                ",
+            "address1": "3806 N CHURCH ST STE A             ",
+            "address2": null,
+            "city": "GREENSBORO                         ",
+            "state": "NC",
+            "zip": "27405           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-28-08.57.52.838000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CLOZAPINE ",
+                    "memberLicenseClass": "CLOZAPINE ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "IPLEDGE   ",
+                    "memberLicenseClass": "IPLEDGE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "QSYMIA    ",
+                    "memberLicenseClass": "QSYMIA    ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "EXCLUDE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "EXCLUDE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "EXCLUDE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "EXCLUDE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "EXCLUDE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "EXCLUDE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "001016     ",
+            "memberDEANumber": null,
+            "memberName": "AKERS PHARMACY INC M1 Edited  ",
+            "address1": "1595 E GARRISON BLVD               ",
+            "address2": null,
+            "city": "GASTONIA                           ",
+            "state": "NC",
+            "zip": "28054           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-29-16.48.29.719000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CLOZAPINE ",
+                    "memberLicenseClass": "CLOZAPINE ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "IPLEDGE   ",
+                    "memberLicenseClass": "IPLEDGE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "QSYMIA    ",
+                    "memberLicenseClass": "QSYMIA    ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "STRIPBAYER",
+                    "memberLicenseClass": "STRIPBAYER",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "104059     ",
+            "memberDEANumber": null,
+            "memberName": "ALLCARE PHARMACY SERVICES     ",
+            "address1": "9641 BITTER MELON DR               ",
+            "address2": null,
+            "city": "ANGIER                             ",
+            "state": "NC",
+            "zip": "27501           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-29-01.56.15.435000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "106161     ",
+            "memberDEANumber": null,
+            "memberName": "ALLCARE PHARMACY SERVICES-DME ",
+            "address1": "9641 BITTER MELON DR               ",
+            "address2": null,
+            "city": "ANGIER                             ",
+            "state": "NC",
+            "zip": "27501           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-08-31-07.33.03.672000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "STRIPBAYER",
+                    "memberLicenseClass": "STRIPBAYER",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "113407     ",
+            "memberDEANumber": null,
+            "memberName": "ALMANDS DRUG STORE            ",
+            "address1": "1329 TARBORO ST                    ",
+            "address2": null,
+            "city": "ROCKY MOUNT                        ",
+            "state": "NC",
+            "zip": "27801           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-29-01.56.26.708000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CLOZAPINE ",
+                    "memberLicenseClass": "CLOZAPINE ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "QSYMIA    ",
+                    "memberLicenseClass": "QSYMIA    ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "STRIPBAYER",
+                    "memberLicenseClass": "STRIPBAYER",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "113399     ",
+            "memberDEANumber": null,
+            "memberName": "ALMANDS DRUG STORE            ",
+            "address1": "3621 SUNSET AVE                    ",
+            "address2": null,
+            "city": "ROCKY MOUNT                        ",
+            "state": "NC",
+            "zip": "27804           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-29-01.56.26.625000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "QSYMIA    ",
+                    "memberLicenseClass": "QSYMIA    ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "STRIPBAYER",
+                    "memberLicenseClass": "STRIPBAYER",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "106591     ",
+            "memberDEANumber": null,
+            "memberName": "ANDERSON CREEK PHARMACY       ",
+            "address1": "6779 OVERHILLS ROAD                ",
+            "address2": null,
+            "city": "SPRING LAKE                        ",
+            "state": "NC",
+            "zip": "28390           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-09-29-16.48.42.432000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "CMEA      ",
+                    "memberLicenseClass": "S         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "STRIPBAYER",
+                    "memberLicenseClass": "STRIPBAYER",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "TIRFREMS  ",
+                    "memberLicenseClass": "TIRFREMS  ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        },
+        {
+            "memberNumber": "121855     ",
+            "memberDEANumber": null,
+            "memberName": "ANDERSON DRUG 340B            ",
+            "address1": "206 SOUTH POPLAR STREET            ",
+            "address2": null,
+            "city": "ELIZABETHTOWN                      ",
+            "state": "NC",
+            "zip": "28337           ",
+            "contactName": null,
+            "phoneNumber": null,
+            "email": null,
+            "creditLimit": null,
+            "currentBalance": null,
+            "memberStatus": null,
+            "statusCode": null,
+            "customerSince": null,
+            "salesMan": null,
+            "type": null,
+            "createdDt": "2020-08-11-17.59.03.521000",
+            "mdmErpMemberLicenses": [
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "IPLEDGE   ",
+                    "memberLicenseClass": "IPLEDGE   ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "QSYMIA    ",
+                    "memberLicenseClass": "QSYMIA    ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SBOP      ",
+                    "memberLicenseClass": "SBOP      ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2   ",
+                    "memberLicenseClass": "2         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 2N  ",
+                    "memberLicenseClass": "2N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3   ",
+                    "memberLicenseClass": "3         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 3N  ",
+                    "memberLicenseClass": "3N        ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 4   ",
+                    "memberLicenseClass": "4         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                },
+                {
+                    "memberNumber": null,
+                    "memberLicenseType": "SCHED 5   ",
+                    "memberLicenseClass": "5         ",
+                    "memberLicenseDesc": null,
+                    "memberLicenseEndDt": null,
+                    "memberCreatedDt": null
+                }
+            ]
+        }
+    ],
+    "offset": 0,
+    "limit": 10,
+    "count": 583
+}
