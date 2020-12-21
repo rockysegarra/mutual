@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import { MembersService } from './services/members.service';
 
 @Component({
     selector: "sample",
@@ -8,26 +9,21 @@ import { Component } from "@angular/core";
 export class SampleComponent {
     title = "angular-datatables";
 
-    rows = [];
+    rows:any;
 
-    ngOnInit() {
-        this.fetch((data) => {
-            this.rows = data;
-        });
+    constructor(private membersService: MembersService){
+
     }
 
-    fetch(cb) {
-        const req = new XMLHttpRequest();
-        req.open(
-            "GET",
-            `http://swimlane.github.io/ngx-datatable/assets/data/company.json`
-        );
+    ngOnInit() {
+        this.fetchMembers();
 
-        req.onload = () => {
-            const data = JSON.parse(req.response);
-            cb(data);
-        };
+    }
 
-        req.send();
+    fetchMembers() {
+        this.membersService.getMembers().subscribe(res =>{
+            this.rows = res.data
+
+        });
     }
 }
