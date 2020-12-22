@@ -4,12 +4,12 @@ import { TranslateModule } from "@ngx-translate/core";
 
 import { FuseSharedModule } from "@fuse/shared.module";
 
-import { SampleComponent } from "./sample.component";
+import { SampleComponent } from "./members.component";
 import { NgxDatatableModule } from "@swimlane/ngx-datatable";
 
 const routes = [
     {
-        path: "sample",
+        path: "members",
         component: SampleComponent,
     },
 ];
